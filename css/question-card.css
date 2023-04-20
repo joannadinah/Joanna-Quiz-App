@@ -1,0 +1,21 @@
+.question__card {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem;
+    border: solid black;
+    background-color: rgb(250, 227, 198);
+    align-items: center;
+    position: relative;
+}
+  
+  .topics__button {
+    display: flex;
+    justify-content: flex-end;
+}
+  
+  .bookmark__svg {
+    position: absolute;
+    top: -1rem;
+    right: .5rem;
+  }
